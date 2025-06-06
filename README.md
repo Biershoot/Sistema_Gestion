@@ -83,7 +83,7 @@ src/
 
 ## Autor ✨
 
-Tu Nombre - https://github.com/Biershoot
+Alejandro Arango Calderon - https://github.com/Biershoot
 
 
 ## Agradecimientos 🙏
